@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ElectricFox.Duplo.CmdLine": {
+      "commandName": "Project",
+      "commandLineArgs": "update \"Y:\\Photos\" \"D:\\Photos.json\""
+    }
+  }
+}
